@@ -6,7 +6,7 @@ I recommend running this app in Visual Studio 2022.
 
 Download Links
 .NET 7 : https://dotnet.microsoft.com/en-us/download/dotnet/7.0 .
-Postgress Database: https://www.postgresql.org/download/ .
+Postgress Database: https://www.postgresql.org/download/ 
 
 Migration for Database
 Open Package Manager Console .
