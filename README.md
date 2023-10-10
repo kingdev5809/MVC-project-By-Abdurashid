@@ -9,9 +9,9 @@ Download Links
 Postgress Database: https://www.postgresql.org/download/ .
 
 Migration for Database
-Open Package Manager Console 
-Write : add-migration 'some word'  
-if this successfuly write in Console : update-database
+Open Package Manager Console .
+Write : add-migration 'some word'  .
+if this successfuly write in Console : update-database .
 Then run app.
 
 
